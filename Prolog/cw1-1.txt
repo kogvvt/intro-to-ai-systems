@@ -1,0 +1,15 @@
+A:
+    x jest rodzeństwem y
+B:
+    x jest kuzynem y 
+C:
+    x to współteść y 
+D:
+    x jest macochą y
+E: 
+    x to przyrodnie rodzeństwo y
+F:
+    x jest szwagrem y
+G:
+    x jest jednocześnie wujkiem i rodzeństwem y 
+
